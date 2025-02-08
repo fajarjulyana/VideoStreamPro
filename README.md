@@ -118,11 +118,6 @@ Server akan berjalan di `http://localhost:5000/`
 }
 ```
 
-
-## 👨‍💻 **Kontributor**
-- **Nama Anda** - Backend & API
-- **Nama Lain (Opsional)** - Frontend
-
 Jika ingin berkontribusi, silakan buat **Pull Request** atau diskusi di **Issues**.
 
 ---
